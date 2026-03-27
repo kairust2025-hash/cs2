@@ -1,7 +1,7 @@
 // users.js
 const users = [
   { uuid: "", username: "axis", password: "axis" },
-  { uuid: "b8e1d7c2-6a3b-4f2d-8e6a-2c3d4e5f6b72", username: "user02", password: "pass02" },
+  { uuid: "", username: "caz", password: "caz" },
   { uuid: "",                                      username: "user03", password: "pass03" }, // not linked yet
   { uuid: "c7d0c6b3-5a4c-4d3e-9d5b-3d4e5f6a7c83", username: "user04", password: "pass04" },
   { uuid: "",                                      username: "user05", password: "pass05" }, // not linked yet
